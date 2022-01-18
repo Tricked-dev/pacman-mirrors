@@ -1,6 +1,6 @@
 # Pacman mirrors
 
-these are the pacman mirrors i use
+these are the pacman mirrors i use optimized cachy
 
 ## Contributing
 
